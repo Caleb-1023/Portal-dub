@@ -6,7 +6,7 @@ function validateForm() {
         return false;
     } 
     else {
-        alert(`Hi ${X} and ${Y}`);
+        alert(`Hi ${X}`);
         return true;
     }
 }
